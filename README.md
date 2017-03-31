@@ -154,16 +154,3 @@ Solutions for magictour.txt:
 659412378238679451741385296865723149427891635913546782396157824574268913182934567
 354186927298743615167952483481527369932614578576398241729865134845231796613479852
 
-
-2. I thought this assignment was extremely interesting. I liked how the simpler puzzles could be solved through just
-constraint propogation, where there was a cell with a domain of size 1 at every step. For the harder puzzles, I think
-I got a really good handle on how backtrack search really works. Guess a value, check to see if that board state is valid,
-and repeat. It felt just like a recursive Depth First Search that could tell when a path was not worth exploring. My
-biggest problem with the assignment is how long it took to solve the second set of puzzles. I finished the lab the night
-before it was due and started running it, and it didn't finish solving until after our AI class the next day.
-
-3. I spent about 5-6 hours on this assignment
-
-4. I affirm that I adhered to the honor code in this assignment
-
-
