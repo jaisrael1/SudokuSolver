@@ -1,5 +1,6 @@
 # sudoku
-HW3: Sudoku (Constraint Satisfaction Problems)
+This project solves sudoku puzzles using Constraint Satisfaction and Backtracking search. 
+It will also identify if the puzzle has no solution.
 
 Jason Israel
 
