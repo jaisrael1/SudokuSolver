@@ -1,5 +1,5 @@
 # sudoku
-This project solves sudoku puzzles using Constraint Satisfaction and Backtracking search. 
+This project solves sudoku puzzles using Constraint Propogation and Backtracking search. 
 It will also identify if the puzzle has no solution.
 
 Jason Israel
